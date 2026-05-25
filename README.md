@@ -21,7 +21,6 @@ I build end-to-end analytics projects — from raw data to SQL pipelines to inte
 |---------|-------|------------|
 | [E-Commerce Supply Chain Dashboard](https://github.com/saadja1601/ecommerce-supply-chain-dashboard) | Python · SQL · Power BI | Analyzed 180K+ orders across 5 global markets — found 54.8% late delivery rate with First Class shipping at 95.3% late |
 | [Customer Churn Analysis](https://github.com/saadja1601/customer-churn-analysis) | Python · SQL · Tableau | Analyzed 49K+ telecom records, quantified $824K/month in at-risk revenue, published to Tableau Public |
-| [SQL Sales Analysis](https://github.com/saadja1601/SQL-Sales-Analysis) | SQL · Excel | Revenue, customer segmentation, and regional trend analysis on transactional sales data |
 | [Coffee Sales Dashboard](https://github.com/saadja1601/Coffee_Sales_Dashboard) | Excel | Interactive Excel dashboard with PivotTables, XLOOKUP, and customer/product insights |
 
 ---
