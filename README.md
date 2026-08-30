@@ -1,6 +1,6 @@
 # Hi, I'm Saad Ahmed 👋
 
-**Data Analyst** | MS Information Technology & Management @ UT Dallas (GPA: 3.67)
+**Data Analyst** | MS Information Technology & Management @ UT Dallas (GPA: 3.81)
 
 I build end-to-end analytics projects — from raw data to SQL pipelines to interactive dashboards — that turn messy datasets into clear, actionable business insights.
 
